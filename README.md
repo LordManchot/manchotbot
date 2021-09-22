@@ -1,0 +1,2 @@
+# manchotbot
+Manchot bot
